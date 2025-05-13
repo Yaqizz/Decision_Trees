@@ -1,4 +1,4 @@
-# Code for Introduction to ML CW1 - Decision Tree
+# Decision Tree
 
 **Team Project**
 
