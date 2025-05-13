@@ -37,16 +37,16 @@ data = np.loadtxt('path/to/your/dataset')
 ### Example Outputs
 
 1. Unpruned Decision Tree trained on noisy dataset:
-![](./assets/Unpruned_Decision_Tree.png)
+![](./assets/noisy-UnprunedTree.png)
 
 2. Confusion Matrix of previous Decision Tree:
-![](./assets/Unpruned_Confusion_Matrix_Noisy_Dataset.png)
+![](./assets/noisy-Unprunedconfusion.png)
 
 3. Pruned Decision Tree trained on noisy dataset:
-![](./assets/Pruned_Decision_Tree.png)
+![](./assets/noisy-PrunedTree.png)
 
 4. Confusion Matrix of previous Decision Tree:
-![](./assets/Pruned_Confusion_Matrix_Noisy_Data.png)
+![](./assets/noisy-Prunedconfusion.png)
 
 ### Visualize Dataset
 
